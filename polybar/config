@@ -184,7 +184,6 @@ format = <label>
 format-background = ${colors.background}
 format-foreground = ${colors.foreground}
 
-
 [module/backLight]
 type = custom/script
 exec = bash ~/.config/polybar/script/backLight.sh
